@@ -1,4 +1,4 @@
-# To-Do List
+# `To-Do List`
 
 This is a To-Do List project built with Motoko and deployed to the Internet Computer Protocol (ICP) mainnet.
 
@@ -27,7 +27,7 @@ To learn more before you start working with `to-do list`, see the following docu
 If you want to start working on your project right away, you might want to try the following commands:
 
 ```bash
-cd todo/
+cd Todo/
 dfx help
 dfx canister --help
 ```
