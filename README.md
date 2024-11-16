@@ -13,7 +13,7 @@ This is a To-Do List project built with Motoko and deployed to the Internet Comp
 2. View tasks by calling `getTasks`.
 3. Mark tasks as completed using `markTaskAsCompleted`.
 
-Welcome to your new `to-do list` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
+Welcome to your new `To-Do list` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
