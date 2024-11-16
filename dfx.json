@@ -1,7 +1,7 @@
 {
   "canisters": {
-    "calculator_backend": {
-      "main": "src/calculator_backend/main.mo",
+    "todo_backend": {
+      "main": "src/todo_backend/main.mo",
       "type": "motoko"
     }
   },
