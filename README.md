@@ -17,7 +17,7 @@ Welcome to your new `To-Do list` project and to the Internet Computer developmen
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
-To learn more before you start working with `to-do list`, see the following documentation available online:
+To learn more before you start working with `To-Do list`, see the following documentation available online:
 
 - [Quick Start](https://internetcomputer.org/docs/current/developer-docs/setup/deploy-locally)
 - [SDK Developer Tools](https://internetcomputer.org/docs/current/developer-docs/setup/install)
